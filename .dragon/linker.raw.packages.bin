@@ -1,0 +1,16 @@
+[
+  [
+    "vipm::delacor_lib_qmh-7.1.2.1547",
+    [
+      "<vilib>:\\Delacor\\Delacor QMH\\Libraries\\Cloneable Module Admin_class\\Delacor_lib_QMH_Cloneable Module Admin.lvclass",
+      "<vilib>:\\Delacor\\Delacor QMH\\Libraries\\DQMH_About Box.vi",
+      "<vilib>:\\Delacor\\Delacor QMH\\Libraries\\Message Queue_class\\Delacor_lib_QMH_Create Message Queue.vi",
+      "<vilib>:\\Delacor\\Delacor QMH\\Libraries\\Message Queue_class\\Delacor_lib_QMH_DQMH Error Tags--constant.vi",
+      "<vilib>:\\Delacor\\Delacor QMH\\Libraries\\Message Queue_class\\Delacor_lib_QMH_Enqueue Message (Single).vi",
+      "<vilib>:\\Delacor\\Delacor QMH\\Libraries\\Message Queue_class\\Delacor_lib_QMH_Enqueue Message (poly).vi",
+      "<vilib>:\\Delacor\\Delacor QMH\\Libraries\\Message Queue_class\\Delacor_lib_QMH_Message Queue.lvclass",
+      "<vilib>:\\Delacor\\Delacor QMH\\Libraries\\Module Admin_class\\Delacor_lib_QMH_Get External Launch.vi",
+      "<vilib>:\\Delacor\\Delacor QMH\\Libraries\\Module Admin_class\\Delacor_lib_QMH_Module Admin.lvclass"
+    ]
+  ]
+]
