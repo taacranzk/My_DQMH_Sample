@@ -1,0 +1,10 @@
+[project]
+labview-version = 2020
+vipc = ""
+
+[nipm]
+
+[vipm]
+
+[vipm.dependencies]
+delacor_lib_qmh = "7.1.2.1547"
